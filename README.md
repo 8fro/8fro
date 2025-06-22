@@ -57,6 +57,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/surajsrivastav)  
 📧 rajsrivastav1819@gmail.com  
-🌐 [Portfolio](https://github.com/surajsrivastav)  
+🌐 [Portfolio]  
 📍 Siddharth Nagar, India
 
