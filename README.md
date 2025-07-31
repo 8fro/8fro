@@ -1,40 +1,87 @@
-<h3 align="center">Cybersecurity Enthusiast • AI/ML Developer • Android & SEO Freelancer</h3>
+<div align="center">
+  <img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" height="100"/>
+</div>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=8fro&label=Profile%20views&color=0e75b6&style=flat" alt="8fro" /> </p>
+<h1 align="center">✨ Welcome to Suraj Srivastava's World of Innovation ✨</h1>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=8fro" alt="8fro" /></a> </p>
-
-- 🔭 I’m currently working on **Cybersecurity Internship @ SSH Softtech, RAG-Based Chatbot, and Smart Vulnerability Scanner**
-
-- 🌱 I’m currently learning **Advanced Cybersecurity (SIEM, log analysis), LangChain, LLMs, and real-time anomaly detection**
-
-- 👯 I’m looking to collaborate on **AI-driven security tools, threat detection systems, and NLP-based chatbots**
-
-- 🤝 I’m looking for help with **Integrating SIEM tools with threat intelligence platforms and scalable AI deployment**
-
-- 👨‍💻 All of my projects are available at [https://github.com/8fro](https://github.com/8fro)
-
-- 📝 I regularly write articles on [LinkedIn (Coming Soon) and Hashnode](LinkedIn (Coming Soon) and Hashnode)
-
-- 💬 Ask me about **Cybersecurity, AI in Healthcare, RAG Chatbots, Freelance SEO, Android Dev, Canva/Figma**
-
-- 📫 How to reach me **rajsrivastav1819@gmail.com**
-
-- 📄 Know about my experiences [mailto:rajsrivastav1819@gmail.com?subject=Requesting%20Resume](mailto:rajsrivastav1819@gmail.com?subject=Requesting%20Resume)
-
-- ⚡ Fun fact **I automate security checks, build chatbots that think, and still find time for design!**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/suraj-sri/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/suraj-sri/" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/rajsrivastav1819/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/rajsrivastav1819/" height="30" width="40" /></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+Developer+%7C+ML+Enthusiast+%7C+Innovator;Solving+problems+with+Generative+AI;Passionate+about+NLP+and+CV;Building+the+Future%2C+one+model+at+a+time!" />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://canvasjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/Hardik0307/Hardik0307/master/assets/canvasjs-charts.svg" alt="canvasjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://unrealengine.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" alt="unreal" width="40" height="40"/> </a> </p>
+---
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=8fro&show_icons=true&locale=en&layout=compact" alt="8fro" /></p>
+<div align="center">
+  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
+  <img src="https://forthebadge.com/images/badges/made-with-python.svg" alt="Made with Python" />
+  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=8fro&show_icons=true&locale=en" alt="8fro" /></p>
+---
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=8fro&" alt="8fro" /></p>
+## 🌟 About Me  
+> "Dreamer, Builder, and Problem Solver with a passion for creating intelligent systems!"
+
+### 🚀 What I Do:
+- 🤖 Generative AI Explorer: Innovating with LLMs and creative AI solutions.  
+- 📊 Data Science Enthusiast: Turning raw data into actionable insights.  
+- 💻 Developer at Heart: Proficient in Python, C++, NLP, and CV.  
+- 🎯 Projects That Matter: Focused on solving real-world problems using ML & AI.  
+
+### 🌱 Currently Exploring:
+- 📚 Deep Dive into Transformer Models.  
+- 🤝 Collaborations in AI-Powered Applications.  
+- 🔬 Researching cutting-edge Computer Vision Techniques.  
+
+---
+
+## 🛠 Tech Stack  
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,html,css,js,docker,mongodb,git" alt="Tech Stack" /><br>
+  <img src="https://img.shields.io/badge/Tools%20I%20Use-Streamlit%20%7C%20Django%20%7C%20Flask-brightgreen?style=flat" />
+</div>
+
+---
+
+## 🔥 GitHub Stats  
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=4for7apy&show_icons=true&theme=highcontrast&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=4for7apy&theme=highcontrast" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4for7apy&layout=compact&theme=highcontrast" alt="Top Languages" />
+</div>
+
+---
+
+## 💼 Projects  
+### 🌟 Featured  
+- 🧠 [Real-Time Sign Language Detection](#): Bringing inclusivity through AI for deaf and mute individuals.  
+- 🤖 [AI Chatbots](#): Enhancing conversations with intelligent, multilingual, and voice-enabled bots.  
+- 🎨 [Generative Art with AI](#): Empowering creative expression through neural networks.  
+
+---
+
+## 📫 Let's Connect  
+<div align="center">
+  <a href="https://www.linkedin.com/in/arpit-srivastav/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:arpit88407@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/4for7apy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.giphy.com/media/1AgViWw1AYKuJv7eLN/giphy.gif" width="600" height="300" />
+</div>
+
+---
+
+## 🎮 Fun Facts  
+- 🛠 Building a cyber-secure future for AI chatbots.  
+- 🎯 Passionate gamer, coder, and tech explorer.  
+- 🌏 Inspired by the possibilities of tech shaping humanity.  
+
+---
+
+<div align="center">
+  <h3>🚀 Let's Build the Future Together!</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Collaboration+is+Key+%F0%9F%91%8C;Let's+Bring+Ideas+to+Life+%F0%9F%94%A5;Reach+out+anytime!+%F0%9F%93%A9" />
+</div>
