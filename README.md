@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://media4.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="200" height="100"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5yY3Z4d3Y1b2V5Z2V0eGx4dWJqY2R2bGJqZzV6eGJmY3B1eWZ5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
 </div>
 
-<h1 align="center">✨ Welcome to Suraj Srivastava's World of Innovation ✨</h1>
+<h1 align="center">✨ Welcome to Suraj Srivastava's Cybersecurity & Development Universe ✨</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=00BFFF&center=true&vCenter=true&width=600&lines=AI+Developer+%7C+ML+Enthusiast+%7C+Innovator;Solving+problems+with+Generative+AI;Passionate+about+NLP+and+CV;Building+the+Future%2C+one+model+at+a+time!" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=4000&color=00FF00&center=true&vCenter=true&width=600&lines=Cybersecurity+Specialist+%7C+Full-Stack+Developer;Python+%7C+C%2B%2B+%7C+Kotlin+Developer;Building+Secure+Systems+with+AI+Integration;Turning+Code+into+Cyber+Shields+%F0%9F%94%92" />
 </p>
 
 ---
@@ -13,75 +13,106 @@
 <div align="center">
   <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
   <img src="https://forthebadge.com/images/badges/made-with-python.svg" alt="Made with Python" />
-  <img src="https://forthebadge.com/images/badges/powered-by-coffee.svg" alt="Powered by Coffee" />
+  <img src="https://forthebadge.com/images/badges/powered-by-responsibility.svg" alt="Powered by Responsibility" />
 </div>
 
 ---
 
 ## 🌟 About Me  
-> "Dreamer, Builder, and Problem Solver with a passion for creating intelligent systems!"
+>💻 "Security-focused developer operating at the intersection of innovation and impenetrability - making the digital world safer without compromising functionality."
 
-### 🚀 What I Do:
-- 🤖 Generative AI Explorer: Innovating with LLMs and creative AI solutions.  
-- 📊 Data Science Enthusiast: Turning raw data into actionable insights.  
-- 💻 Developer at Heart: Proficient in Python, C++, NLP, and CV.  
-- 🎯 Projects That Matter: Focused on solving real-world problems using ML & AI.  
+### 🛡️ Cybersecurity Expertise:
+- 🔍 Vulnerability Assessment & Penetration Testing
+- 🕵️ Network Traffic Analysis (Wireshark, Nmap)
+- 🛡️ SIEM Tools & Threat Detection
+- 🔒 Encryption & Authentication Systems
 
-### 🌱 Currently Exploring:
-- 📚 Deep Dive into Transformer Models.  
-- 🤝 Collaborations in AI-Powered Applications.  
-- 🔬 Researching cutting-edge Computer Vision Techniques.  
+### 💻 Development Skills:
+- 🐍 Python | C++ | Kotlin
+- 🤖 AI/ML Integration
+- 📱 Android Development
+- 🎮 Game Development (Unity, Blender)
 
 ---
 
 ## 🛠 Tech Stack  
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,cpp,html,css,js,docker,mongodb,git" alt="Tech Stack" /><br>
-  <img src="https://img.shields.io/badge/Tools%20I%20Use-Streamlit%20%7C%20Django%20%7C%20Flask-brightgreen?style=flat" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,kotlin,androidstudio,unity,blender,git,github" alt="Tech Stack" /><br>
+  <img src="https://img.shields.io/badge/Security%20Tools-Wireshark%20%7C%20Metasploit%20%7C%20Nmap-blue?style=flat" />
+  <img src="https://img.shields.io/badge/Web%20Tech-SEO%20%7C%20Backlinking-brightgreen?style=flat" />
 </div>
 
 ---
 
 ## 🔥 GitHub Stats  
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=4for7apy&show_icons=true&theme=highcontrast&count_private=true" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=4for7apy&theme=highcontrast" alt="GitHub Streak Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=4for7apy&layout=compact&theme=highcontrast" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Sfro&show_icons=true&theme=dark&count_private=true" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Sfro&theme=highcontrast" alt="GitHub Streak Stats" />
 </div>
 
 ---
 
-## 💼 Projects  
-### 🌟 Featured  
-- 🧠 [Real-Time Sign Language Detection](#): Bringing inclusivity through AI for deaf and mute individuals.  
-- 🤖 [AI Chatbots](#): Enhancing conversations with intelligent, multilingual, and voice-enabled bots.  
-- 🎨 [Generative Art with AI](#): Empowering creative expression through neural networks.  
+## 🚀 Featured Projects
+### 🔒 Secure Systems
+- **Encrypted Chatbot with OTP Auth**  
+  RAG-based system with AES encryption and 2FA protection
+
+- **Health Support AI Assistant**  
+  ML models for rural health diagnosis with low-resource optimization
+
+### 🎮 Creative Works
+- **3D Game Development**  
+  Custom games built with Unity and Blender
+
+### 📈 Digital Marketing
+- **YouTube SEO Optimization**  
+  Increased client reach and earned $200+ through Upwork
+
+---
+
+## 💼 Professional Journey
+- **SSH Softech Pvt Ltd** (Cybersecurity Intern)  
+  Performed vulnerability assessments and penetration testing
+
+- **Freelance SEO Specialist**  
+  Improved video rankings through strategic optimization
+
+---
+
+## 📜 Certifications
+<div align="center">
+  <img src="https://img.shields.io/badge/CompTIA-Security+-orange?logo=compTIA" />
+  <img src="https://img.shields.io/badge/CompTIA-Network+-blue?logo=compTIA" />
+  <img src="https://img.shields.io/badge/CompTIA-Linux+-yellow?logo=compTIA" />
+  <img src="https://img.shields.io/badge/IBM-Cybersecurity%20Fundamentals-052FAD?logo=IBM" />
+</div>
 
 ---
 
 ## 📫 Let's Connect  
 <div align="center">
-  <a href="https://www.linkedin.com/in/arpit-srivastav/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:arpit88407@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/4for7apy"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/suraj-sri/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:rajsrivastava8.9@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/Sfro"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://media.giphy.com/media/1AgViWw1AYKuJv7eLN/giphy.gif" width="600" height="300" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="500" />
 </div>
 
 ---
 
-## 🎮 Fun Facts  
-- 🛠 Building a cyber-secure future for AI chatbots.  
-- 🎯 Passionate gamer, coder, and tech explorer.  
-- 🌏 Inspired by the possibilities of tech shaping humanity.  
+## 🎯 Fun Facts
+- 🕹️ Game developer by passion, security expert by profession
+- 🔍 Love exploring new cybersecurity tools and techniques
+- 📈 Enjoy the challenge of SEO optimization
+- 🛠️ Believe in building secure systems from the ground up
 
 ---
 
 <div align="center">
-  <h3>🚀 Let's Build the Future Together!</h3>
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=FFFFFF&center=true&vCenter=true&width=600&lines=Collaboration+is+Key+%F0%9F%91%8C;Let's+Bring+Ideas+to+Life+%F0%9F%94%A5;Reach+out+anytime!+%F0%9F%93%A9" />
+  <h3>🛡️ Let's Build Secure Digital Solutions Together!</h3>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=00FF00&center=true&vCenter=true&width=600&lines=Security+First+Approach+%F0%9F%94%92;Innovation+Through+Code+%F0%9F%92%BB;Open+to+Collaborations+%F0%9F%91%8D" />
 </div>
