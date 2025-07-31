@@ -2,7 +2,7 @@
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcW5yY3Z4d3Y1b2V5Z2V0eGx4dWJqY2R2bGJqZzV6eGJmY3B1eWZ5biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/qgQUggAC3Pfv687qPC/giphy.gif" width="200"/>
   
   <h1>✨ Suraj Srivastava ✨</h1>
-  <h3>Cybersecurity Specialist | Full-Stack Developer | Game Developer</h3>
+  <h3>Cybersecurity Specialist | Game Developer</h3>
   
   <p>
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=3500&color=00FF00&center=true&width=600&lines=Building+Secure+Systems;Developing+3D+Games;Creating+AI+Solutions;Specializing+in+Penetration+Testing" />
